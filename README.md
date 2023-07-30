@@ -16,6 +16,13 @@ My life turns around 🚀Technology💻, 🧪Science🔭 and Basket
 
 
 <div align="center">
+<img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
+<img width="40" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
+<img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+  
 <img width="40" src="logos/linux.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/>
 <img width="40" src="logos/ansible.svg"/>
@@ -25,13 +32,6 @@ My life turns around 🚀Technology💻, 🧪Science🔭 and Basket
 <img width="40" src="logos/prometheus.svg"/>
 <img width="40" src="logos/github.svg"/>
 <img width="40" src="logos/gitlab.svg"/>
-
-<img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 
 ________
 <br>
